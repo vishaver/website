@@ -1,2 +1,2 @@
-FROM Ngnix
+FROM ngnix
 COPY . /usr/share/ngnix/html
